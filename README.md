@@ -1,5 +1,11 @@
 # ng-pdfviewer
 
+## Modified version
+MODIFIED VERSION BY Laurent COUSTET TO ADD changeZoom.
+PLEASE USE ORIGINAL AUTHOR VERSION.
+
+## Intro
+
 AngularJS PDF viewer directive using pdf.js.
 
 ``` html
