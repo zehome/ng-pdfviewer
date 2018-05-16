@@ -1,0 +1,13 @@
+{
+  "name": "ng-pdfviewer",
+  "version": "0.3.1",
+  "description": "AngularJS pdfjs wrapper",
+  "main": "ng-pdfviewer.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zehome/ng-pdfviewer.git"
+  },
+  "author": "Laurent Coustet",
+  "license": "MIT",
+  "homepage": "https://github.com/zehome/ng-pdfviewer"
+}
